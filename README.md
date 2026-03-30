@@ -18,6 +18,22 @@ The app supports both:
 - `Ollama-based generation` for richer local AI question generation
 - `Fast Mode` for quick local question creation without waiting on the model
 
+## Screenshots
+
+### Home Page
+
+![Home page - web topic setup](assets/screenshots/home-web-topic.png)
+
+### Quiz Screen
+
+![Quiz question screen](assets/screenshots/quiz-question.png)
+
+### Result Screen
+
+![Result screen - perfect score](assets/screenshots/results-perfect-score.png)
+
+![Result screen - feedback view](assets/screenshots/results-feedback.png)
+
 ## Main Features
 
 - Streamlit UI with a polished home page, quiz page, and result page
