@@ -218,4 +218,4 @@ After submitting the quiz, the app shows:
 
 ## Author
 
-Ranpratap Singh
+Santosh Patl
