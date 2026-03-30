@@ -31,6 +31,12 @@ The app supports both:
 - Percentage score, average score, and right/wrong counts
 - Downloadable JSON result export
 
+## GitHub Repo Description
+
+Use this in the GitHub repository `About` section:
+
+`AI-powered Streamlit quiz app that generates MCQ and short-answer quizzes from documents, paragraphs, or web topics using Ollama and fast local fallback modes.`
+
 ## Tech Stack
 
 - `Python`
@@ -155,6 +161,18 @@ python -m streamlit run app.py
 7. Click `Generate Quiz`.
 8. Answer all questions.
 9. Review the final score, feedback, and correct/wrong answer summary.
+
+## Demo Script
+
+Use this short explanation during your internship demo:
+
+1. `This is an AI Quiz App built with Streamlit.`
+2. `The user enters their name and can create a quiz from a document, a pasted paragraph, or a web topic.`
+3. `The app supports both Multiple Choice and Short Answer questions.`
+4. `For local AI generation, it can use Ollama.`
+5. `If Ollama is slow, Fast Mode can still generate questions quickly.`
+6. `After answering the quiz, the app evaluates the responses and shows percentage score, right answers, wrong answers, and feedback summary.`
+7. `This project demonstrates document ingestion, question generation, answer evaluation, and a complete user-friendly Streamlit workflow.`
 
 ## Evaluation Output
 
