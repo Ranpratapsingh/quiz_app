@@ -9,3 +9,8 @@ data/sessions/
 .idea/
 venv/
 .env/
+.pytest_cache/
+.mypy_cache/
+*.log
+*.tmp
+Thumbs.db
