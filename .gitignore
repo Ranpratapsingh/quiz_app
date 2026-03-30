@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.eggs/
+data/uploads/
+data/sessions/
+.streamlit/
+.DS_Store
+.vscode/
+.idea/
+venv/
+.env/
