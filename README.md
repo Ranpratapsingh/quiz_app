@@ -2,6 +2,10 @@
 
 An internship-ready Streamlit project that generates quizzes from uploaded documents, pasted text, or web topics and then evaluates user answers with clear feedback and scoring.
 
+## Project Explanation Video
+
+[Watch Video](https://youtu.be/wu-s2znv4fE?si=NOEiTIR39dhzq4-X)
+
 ## Overview
 
 This project lets a user:
